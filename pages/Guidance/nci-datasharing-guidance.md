@@ -47,10 +47,10 @@ Here's a sampling of data policies applicable to NCI-funded research. For additi
 
 - **Full Details**: [grants.nih.gov](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/dms)
 - **Effective**: January 25, 2023
-- **Applicability**: New applications (Type 1) & competitive renewals (Type 2)
-Competitive revisions (Type 3) & administrative supplements are not subject to the policy
-  Not applicable to research & other activities that do not generate scientific data
-- **Expectations**: Prospectively plan how to preserve & share scientific data
+- **Applicability**: New applications (Type 1) and competitive renewals (Type 2)
+Competitive revisions (Type 3) and administrative supplements are not subject to the policy
+  Not applicable to research and other activities that do not generate scientific data
+- **Expectations**: Prospectively plan how to preserve and share scientific data
 - **Sharing Timelines**: Share scientific data as soon as possible, but not later than the time of associated publication or end of performance period
 - **Data Location(s)**: Repository appropriate for the data generated from the research project, or as in NOFO
 - [DMS Policy FAQs](https://grants.nih.gov/faqs#/data-management-and-sharing-policy.htm)
@@ -59,8 +59,8 @@ Competitive revisions (Type 3) & administrative supplements are not subject to t
 
 - **Full Details**: [grants.nih.gov](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/gds)
 - **Effective**: January 25, 2015
-- **Applicability**: New applications that generate large-scale genomic data & smaller-scale studies (of programmatic priority, or rare diseases)
-  Thresholds & assay types clearly defined for meeting GDS
+- **Applicability**: New applications that generate large-scale genomic data and smaller-scale studies (of programmatic priority, or rare diseases)
+  Thresholds and assay types clearly defined for meeting GDS
 - **Expectations**: Include a genomic data sharing plan as part of DMS plan
 - **Sharing Timelines**: Release lower-level primary data (L2/L3) by 9 months after data generation/QC
   Release summary analyses at publication or end of the project period
